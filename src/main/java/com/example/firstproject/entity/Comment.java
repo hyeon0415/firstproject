@@ -23,7 +23,7 @@ public class Comment {
     private Article article;
 
     @Column
-    private String nickName;
+    private String nickname;
 
     @Column
     private String body;
